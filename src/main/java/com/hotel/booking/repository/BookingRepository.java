@@ -1,4 +1,4 @@
-package com.hotel.booking.Repository;
+package com.hotel.booking.repository;
 
 import com.hotel.booking.model.Booking;
 import org.springframework.stereotype.Repository;
